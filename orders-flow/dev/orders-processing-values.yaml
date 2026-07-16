@@ -1,2 +1,3 @@
 ---
 replicaCount: 3
+# from inventory-service/, on the PR branch
